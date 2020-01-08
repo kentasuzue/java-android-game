@@ -4,7 +4,7 @@ The game is in Java and used Android Studio.  If Trump's head crosses the screen
 
 The project zip file is ksuzu2_game.zip
 
-A video demo of the utility is Kenta_Suzue_Project4.mp4
+A video demo of the utility is Kenta_Suzue_Project5.mp4
 
 A link to the same video:
 https://cdnapisec.kaltura.com/index.php/extwidget/preview/partner_id/1371761/uiconf_id/13362791/entry_id/0_l413x95z/embed/dynamic
