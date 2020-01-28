@@ -1,6 +1,6 @@
 # java-android-game
 
-The game is in Java and used Android Studio.  If Trump's head crosses the screen 5 times, Trump is re-elected, and "Hail to the Chief" plays. If the player pushes the "UP" and "DOWN" buttons to move Mueller's head and block Trump's head from crossing the screen 5 times, then Trump is impeached and "Awwww!" plays.  The "PLAY AGAIN" button restarts the game.
+The game is in Java and used Android Studio.  If Trump's head crosses the screen 5 times, Trump is re-elected, and "Hail to the Chief" plays. If the player pushes the "UP" and "DOWN" buttons to move Mueller's head and blocks Trump's head from crossing the screen 5 times, then Trump is impeached and "Awwww!" plays.  The "PLAY AGAIN" button restarts the game.
 
 The project zip file is ksuzu2_game.zip
 
